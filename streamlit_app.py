@@ -1,8 +1,5 @@
 
 import streamlit as st
-import cv2
-import numpy as np
-import tempfile
 from PIL import Image
 
 st.title("Facial Mapping AI - MVP")
